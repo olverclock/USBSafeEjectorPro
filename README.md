@@ -2,6 +2,7 @@
 
 Ferramenta avançada para ejetar pendrives e HDs externos com segurança e rapidez no Windows, com interface moderna, modo escuro e suporte a modos de ejeção rápido e seguro.
 
+[Print](https://github.com/olverclock/USBSafeEjectorPro/blob/main/usb_eject_pro.png)
 ## ✨ Principais recursos
 
 - Ejeção rápida ⚡ (~1s) e segura 🛡 (com verificações extras)  

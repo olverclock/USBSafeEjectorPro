@@ -131,7 +131,7 @@ Se este projeto for útil para você, considere:
 
 Adicione aqui a licença que você deseja utilizar, por exemplo:
 
-- MIT, GPL-3.0, Apache-2.0, ou outra de sua preferência.
+- MIT, GPL-3.0.
 
 Exemplo (MIT):
 

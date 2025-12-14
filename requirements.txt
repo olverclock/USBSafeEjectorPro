@@ -1,0 +1,17 @@
+# USB Safe Ejector Pro - Dependências Python
+# Instalar com: pip install -r requirements.txt
+
+# Interface gráfica moderna
+customtkinter>=5.2.0
+
+# Caixas de mensagem customizadas para CTk
+CTkMessagebox>=2.5
+
+# Acesso a recursos do Windows (arquivos, dispositivos, API)
+pywin32>=306
+
+# Monitoramento de processos e sistema
+psutil>=5.9.0
+
+# Manipulação de imagens (se necessário para ícones/assets)
+Pillow>=10.0.0
